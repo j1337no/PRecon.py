@@ -68,8 +68,8 @@ sudo apt install whois dnsutils dnsenum amass curl
 
 ### Usage ###
 From Kali box:
-   python3 precon.py
-   Enter Name and Domain when prompted
+   python3 precon.py,
+   Enter Name and Domain when prompted,
    Go make coffee while you wait
 
 
