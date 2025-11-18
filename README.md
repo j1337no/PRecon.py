@@ -3,7 +3,7 @@ Automated passive reconnaissance engine for security assessments.  Generates OSI
 
 This tool runs a series of **safe, OSINT-only checks** against a target domain and saves all output into a structured folder for later analysis and reporting.
 
-# ParishSec Passive Recon
+Passive Recon
 
 Automated **passive reconnaissance engine** for security assessments.
 
